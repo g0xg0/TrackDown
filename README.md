@@ -4,13 +4,13 @@
 
 <div align="center">
 
-[![https://telegram.me/alltoolinstallbot](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/th30neand0nly0ne)
-[![https://telegram.me/alltoolinstallbot](https://img.shields.io/badge/Telegram-@th30neand0nly-blue.svg?style=flat-square)](https://telegram.me/th30neand0nly)
+[![https://telegram.me/TrackD0wnbot](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/vip1996)
+[![https://telegram.me/TrackD0wnbot](https://img.shields.io/badge/Telegram-@th30neand0nly-blue.svg?style=flat-square)](https://telegram.me/vip1996)
 
 </div>
 
-This tool is based upon [Psi](https://github.com/alltoolinstallbot/Psi) .This is a telegram implementation with extra features than Psi.
-### Try it at [@alltoolinstallbot](https://t.me/alltoolinstallbot)
+This tool is based upon [Psi](https://github.com/TrackD0wnbot/Psi) .This is a telegram implementation with extra features than Psi.
+### Try it at [@TrackD0wnbot](https://t.me/TrackD0wnbot)
 
 
 [![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github/Th30neAnd0nly/TrackDown)
