@@ -10,7 +10,7 @@
 </div>
 
 This tool is based upon [Psi](https://github.com/alltoolinstallbot/Psi) .This is a telegram implementation with extra features than Psi.
-### Try it at [@TrackDownRoBot](https://t.me/alltoolinstallbot)
+### Try it at [@alltoolinstallbot](https://t.me/alltoolinstallbot)
 
 
 [![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github/Th30neAnd0nly/TrackDown)
