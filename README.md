@@ -5,7 +5,7 @@
 <div align="center">
 
 [![https://telegram.me/TrackD0wnbot](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/vip1996)
-[![https://telegram.me/TrackD0wnbot](https://img.shields.io/badge/Telegram-@th30neand0nly-blue.svg?style=flat-square)](https://telegram.me/vip1996)
+[![https://telegram.me/TrackD0wnbot](https://img.shields.io/badge/Telegram-@FZZEE-blue.svg?style=flat-square)](https://telegram.me/vip1996)
 
 </div>
 
